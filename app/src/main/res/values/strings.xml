@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Earthquakes Report</string>
+
+    <string name="near_the">Near the</string>
+
+    <string name="no_earthquakes">No earthquakes found.</string>
+
+    <string name="no_internet_connection">No internet connection.</string>
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">Earthquake Settings</string>
+
+    <string name="settings_category_Date_and_Time">Date &amp; Time</string>
+    <string name="settings_category_earthquake_magnitude">Earthquake Magnitude</string>
+    <string name="settings_category_earthquake_order">Earthquake Order</string>
+
+    <string name="settings_min_magnitude_label">Minimum Magnitude</string>
+    <string name="settings_min_magnitude_key" translatable="false">min_magnitude</string>
+    <string name="settings_min_magnitude_default" translatable="false">1</string>
+
+    <string name="settings_max_magnitude_label">Maximum Magnitude</string>
+    <string name="settings_max_magnitude_key" translatable="false">max_magnitude</string>
+    <string name="settings_max_magnitude_default" translatable="false">10</string>
+
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_magnitude_value</string>
+
+    <string name="settings_start_date_label">Start In</string>
+    <string name="settings_start_date_key" translatable="false">start_in</string>
+    <string name="settings_start_date_default" translatable="false">2020-6-1</string>
+
+    <string name="settings_end_date_label">End In</string>
+    <string name="settings_end_date_key" translatable="false">end_in</string>
+    <string name="settings_end_date_default" translatable="false">2020-7-1</string>
+
+    <string name="settings_order_by_magnitude_label">Magnitude</string>
+    <string name="settings_order_by_magnitude_value" translatable="false">magnitude</string>
+
+    <string name="settings_order_by_most_recent_label">Most Recent</string>
+    <string name="settings_order_by_most_recent_value" translatable="false">time</string>
+
+    <string name="settings_date_hint" translatable="false">2020-6-1</string>
+
+
+    <string name="try_connect_again">Try Again</string>
+</resources>
